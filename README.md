@@ -41,6 +41,9 @@ Our models generate predictions for future product demand, which help determine 
 
 Our demand forecasting and inventory management solution, which is easily integrated into a React-based website, uses powerful machine learning algorithms and real-time data to make accurate forecasts and optimize inventories. Users benefit from timely replenishment notifications and easy engagement with forecasted data.
 
+#Link
+https://youtu.be/CuA19fQUuXE?feature=shared
+
 
 
 
